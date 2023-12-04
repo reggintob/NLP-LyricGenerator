@@ -17,7 +17,7 @@ LyricsGenius = lyricsgenius.Genius(client_access_token)
 artist = input()
 title = input()
 
-song = LyricsGenius.search_song(artist, title)
+song = LyricsGenius.search_song(title, artist)
 
 lyrics = song.lyrics
 
