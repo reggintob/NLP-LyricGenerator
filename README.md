@@ -7,6 +7,6 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1 class="heading">Welcome to Nishan's website</h1 >
+    <h1 class="heading">Welcome to our NLP Group website</h1 >
 </body>
 </html>
